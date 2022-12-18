@@ -58,6 +58,13 @@ article {
 .menu-hoy{
     padding-top: 160px;
 }
+.fondo{
+    background-image: url(https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    color: white;
+}
+.fondo li{
+    font-size: 30px;
+}
 .portada {
     padding: 24px;
     max-width: 850px;
